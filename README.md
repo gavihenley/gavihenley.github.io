@@ -23,8 +23,7 @@ Well first I logged into GitHub and then I created a New repository. After that 
  I love Beabadoobee because her music is so calming and she is really good at singing, her voice is simply beautiful.
 
 * [**Wave To Earth**](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg?si=ajSqN_9tSXeezH66gpXprw)
-
-  I'm actually going to their concert in New York on November 2nd. I am really excited, they're my favorite asian band as of right now.
+ I'm actually going to their concert in New York on November 2nd. I am really excited, they're my favorite asian band as of right now.
 * [**Travis Scott**](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY?si=NROqlKB7Rp2UnydrA57MTw)
  Travis Scott has made a huge impact on my life. His music helps me get hype for when I need it. I personally believe he was robbed of a grammy on numerous occasions. 
 
