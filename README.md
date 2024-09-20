@@ -31,6 +31,6 @@ Well first I logged into GitHub and then I created a New repository. After that 
 * [**Dominic Fike**](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs?si=4EBRfiUaSG-mHJSqY1VyTA)
  Dominic Fike always makes music that puts me in that summer mood. Whenever I listen to him I can just imagine a beach, the sound of waves crashing against the sand, and a nice summer breeze. 
 
-* [**Babytron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk?si=Zzb-NUCxRsGmykX-B5tXsA)
+* [**Babytron**](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk?si=Zzb-NUCxRsGmykX-B5tXsA)
  Babytron isn't mentioned enough as I think he should be. He brings so much energy to me when I listen to him. His word play is criminally underrated and I think he should have more listeners.
 code:work [true] 
