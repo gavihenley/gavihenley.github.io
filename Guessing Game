@@ -1,0 +1,18 @@
+```mermaid
+flowchart TD
+    A([Game Starts]) --> B[Pick Random Number]
+    B --> C[Ask Player for Guess]
+    C --> D{Is the Input Valid?}
+    
+    D -- No --> E[Show Error: Invalid Guess]
+    E --> C
+    
+    D -- Yes --> F{Is the Guess Correct?}
+    F -- Too Low --> G[Show Message: Guess is Too Low]
+    G --> C
+    
+    F -- Too High --> H[Show Message: Guess is Too High]
+    H --> C
+    
+    F -- Correct --> I[Show Message: You Got It!]
+    I --> J([End Game])
